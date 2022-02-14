@@ -1,0 +1,14 @@
+.prueba h1 {
+	color: gray;
+}
+
+.prueba p {
+	text-align: center;
+	font-weight: bold;
+	color: #86895d;
+	font-size: 100px;
+}
+
+.cambiante {
+	color: green;
+}
